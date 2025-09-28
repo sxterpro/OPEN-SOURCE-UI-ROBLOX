@@ -3,7 +3,7 @@ SaveTheme = {}
 
 local themes = {
 	index = {'Dark', 'LightTheme'},
-	Amethyst = {
+	LightTheme = {
 		['Shadow'] = Color3.fromRGB(24, 24, 31),
 		['Background'] = Color3.fromRGB(29, 28, 38),
 		['Page'] = Color3.fromRGB(24, 24, 31),
